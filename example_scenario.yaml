@@ -3,14 +3,6 @@ initial_gc: 'h2'
 controller_port: 5000
 
 nodes:
-    - node: 'h5'
-      latitude: 36.3719
-      longitude: -78.8164
-
-    - node: 'h7'
-      latitude: 28.4167
-      longitude: -97.5
-
     - node: 'h8'
       latitude: 36.783
       longitude: -121.417
@@ -21,7 +13,7 @@ events:
       active: {'h8' : 1} # number of active users at this timestamp
 
     - ts: 10
-      active: {'h7' : 1}
+      active: {'h8' : 4}
 
       #    - ts: 25
       # active: {'h7' : 3, 'h8' : 3}

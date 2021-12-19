@@ -35,18 +35,6 @@
         }
     },
     "clients" : {
-        "h5" : {
-            "latitude" : 36.3719,
-            "longitude" : -78.8164,
-            "ip":"10.0.0.5",
-            "region":"eastus"
-        },          
-        "h7" : {
-            "latitude" : 28.4167,
-            "longitude" : -97.5,
-            "ip":"10.0.0.7",
-            "region":"northcentralus"
-        },          
         "h8" : {
             "latitude" : 36.783,
             "longitude" : -121.417,
