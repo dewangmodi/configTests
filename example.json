@@ -6,24 +6,6 @@
     },
 
     "dcs" : {
-        "h3" : {
-            "displayName": "West US",
-            "latitude": "37.783",
-            "longitude": "-122.417",
-            "name": "westus",
-            "id":"",
-            "subscriptionId" : "",
-            "ip":"10.0.0.3"
-        },      
-        "h2" : {
-            "displayName": "North Central US",
-            "latitude": "41.8819",
-            "longitude": "-87.6278",
-            "name": "northcentralus",
-            "id":"",
-            "subscriptionId" : "",
-            "ip":"10.0.0.2"
-        },  
         "h6" : {
             "displayName": "South Central US",
             "latitude": "29.4167",
