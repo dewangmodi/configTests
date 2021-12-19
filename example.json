@@ -7,10 +7,10 @@
 
     "dcs" : {
         "h6" : {
-            "displayName": "South Central US",
+            "displayName": "West US",
             "latitude": "29.4167",
             "longitude": "-98.5",
-            "name": "southcentralus",
+            "name": "westus",
             "id":"",
             "subscriptionId" : "",
             "ip":"10.0.0.6"
