@@ -44,7 +44,7 @@
         "h4" : {
             "latitude": "34.6939",
             "longitude": "135.5022",
-            "name": "japanwest",
+            "region": "japanwest",
             "ip":"10.0.0.4"
 
 
@@ -52,7 +52,7 @@
         "h5" : {
             "latitude": "46.817",
             "longitude": "-71.217",
-            "name": "canadaeast",
+            "region": "canadaeast",
             "ip":"10.0.0.5"
         }
 
