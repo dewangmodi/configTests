@@ -8,29 +8,61 @@
     "dcs" : {
         "h6" : {
             "displayName": "West US",
-            "latitude": "29.4167",
-            "longitude": "-98.5",
+            "latitude": "37.783",
+            "longitude": "-122.417",
             "name": "westus",
             "id":"",
             "subscriptionId" : "",
             "ip":"10.0.0.6"
+        },
+        "h3" : {
+            "displayName": "East Asia",
+            "latitude": "22.267",
+            "longitude": "114.188",
+            "name": "eastasia",
+            "id":"",
+            "subscriptionId" : "",
+            "ip":"10.0.0.3"
+        },
+        "h2" : {
+            "displayName": "North Europe",
+            "latitude": "53.3478",
+            "longitude": "-6.2597",
+            "name": "northeurope",
+            "id":"",
+            "subscriptionId" : "",
+            "ip":"10.0.0.2"
         }
     },
     "clients" : {
         "h8" : {
-            "latitude" : 36.783,
-            "longitude" : -121.417,
+            "latitude": "29.4167",
+            "longitude": "-98.5",
             "ip":"10.0.0.8",
             "region":"southcentralus"
-        }           
+        },
+        "h4" : {
+            "latitude": "34.6939",
+            "longitude": "135.5022",
+            "name": "japanwest",
+            "ip":"10.0.0.4"
+
+
+        },
+        "h5" : {
+            "latitude": "46.817",
+            "longitude": "-71.217",
+            "name": "canadaeast",
+            "ip":"10.0.0.5"
+        }
+
 
     },
 
     "inter_dc" : {
-        "h3" : {"h3":"0ms","h2":"90ms","h6":"140ms"},
-        "h2" : {"h3":"90ms","h2":"0ms","h6":"80ms"},
-        "h6" : {"h3":"140ms","h2":"80ms","h6":"0ms"}
-
+        "h3" : {"h3":"0ms","h2":"9871ms","h6":"258.23ms"},
+        "h2" : {"h3":"9871ms","h2":"0ms","h6":"299.38ms"},
+        "h6" : {"h3":"258.23s","h2":"299.38ms","h6":"0ms"}
     }
 
 }
