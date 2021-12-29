@@ -2,18 +2,20 @@ controller_node: 'h1'
 initial_gc: 'h2'
 controller_port: 5000
 
-nodes:
-    - node: 'h8'
-      latitude: 36.783
-      longitude: -121.417
-
 events:
     # expects ts to be in sorted order
-    - ts: 2 # in seconds, relative to when initial controller node and gc start
+    - ts: 20 # in seconds, relative to when initial controller node and gc start
       active: {'h8' : 1} # number of active users at this timestamp
 
-    - ts: 120
-      active: {'h8' : 4}
+    - ts: 80
+      active: {'h8' : 4, 'h4' : 2, 'h5' : 1}
+
+    - ts: 140
+      active: {'h8' : 1, 'h4' : 5, 'h5' : 3}
+
+    - ts: 200
+      active: {'h8' : 1, 'h4' : 5, 'h5' : 1}
+
 
       #    - ts: 25
       # active: {'h7' : 3, 'h8' : 3}
@@ -21,5 +23,4 @@ events:
       #    - ts: 35
       # active: {'h7' : 6, 'h8' : 5}
 
-end_ts: 240 # timestamp of ending all users
-
+end_ts: 260 # timestamp of ending all users
