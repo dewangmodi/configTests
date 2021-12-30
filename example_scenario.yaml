@@ -4,16 +4,16 @@ controller_port: 5000
 
 events:
     # expects ts to be in sorted order
-    - ts: 20 # in seconds, relative to when initial controller node and gc start
+    - ts: 2 # in seconds, relative to when initial controller node and gc start
       active: {'h8' : 1} # number of active users at this timestamp
 
-    - ts: 80
+    - ts: 8
       active: {'h8' : 4, 'h4' : 2, 'h5' : 1}
 
-    - ts: 140
+    - ts: 14
       active: {'h8' : 1, 'h4' : 5, 'h5' : 3}
 
-    - ts: 200
+    - ts: 20
       active: {'h8' : 1, 'h4' : 5, 'h5' : 1}
 
 
@@ -23,4 +23,4 @@ events:
       #    - ts: 35
       # active: {'h7' : 6, 'h8' : 5}
 
-end_ts: 260 # timestamp of ending all users
+end_ts: 26 # timestamp of ending all users
