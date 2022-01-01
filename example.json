@@ -2,7 +2,8 @@
     "controller":{
         "name":"h1",
         "ip":"10.0.0.1",
-        "initial_dc":"h2"
+        "initial_dc":"h2",
+        "region": "westus"
     },
 
     "dcs" : {
@@ -42,27 +43,26 @@
             "region":"southcentralus"
         },
         "h4" : {
-            "latitude": "34.6939",
-            "longitude": "135.5022",
-            "region": "japanwest",
+            "latitude": "53.3478",
+            "longitude": "-6.2597",
+            "region": "northeurope",
             "ip":"10.0.0.4"
 
 
         },
         "h5" : {
-            "latitude": "46.817",
-            "longitude": "-71.217",
-            "region": "canadaeast",
+            "latitude": "36.6681",
+            "longitude": "-78.3889",
+            "region": "eastus2",
             "ip":"10.0.0.5"
         }
 
 
     },
 
-    "inter_dc" : {
-        "h3" : {"h3":"0ms","h2":"9871ms","h6":"258.23ms"},
-        "h2" : {"h3":"9871ms","h2":"0ms","h6":"299.38ms"},
-        "h6" : {"h3":"258.23s","h2":"299.38ms","h6":"0ms"}
-    }
+    
+
+    "inter_region" : {"westus": {"westus": 0.0, "eastasia": 299.38, "northeurope": 258.23, "southcentralus": 2397.0, "eastus2": 3872.0}, "eastasia": {"westus": 11117.0, "eastasia": 0.0, "northeurope": 9871.0, "southcentralus": 13305.0, "eastus2": 13349.0}, "northeurope": {"westus": 8197.0, "eastasia": 438.87, "northeurope": 0.0, "southcentralus": 7582.0, "eastus2": 5711.0}, "southcentralus": {"westus": 68.01, "eastasia": 364.09, "northeurope": 193.51, "southcentralus": 0.0, "eastus2": 2038.0}, "eastus2": {"westus": 119.51, "eastasia": 416.77, "northeurope": 141.97, "southcentralus": 55.21, "eastus2": 0.0}}
+
 
 }
