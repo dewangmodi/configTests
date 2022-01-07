@@ -62,7 +62,7 @@
 
     
 
-    "inter_region" : {"westus": {"westus": 0.0, "eastasia": 299.38, "northeurope": 258.23, "southcentralus": 2397.0, "eastus2": 3872.0}, "eastasia": {"westus": 11117.0, "eastasia": 0.0, "northeurope": 9871.0, "southcentralus": 13305.0, "eastus2": 13349.0}, "northeurope": {"westus": 8197.0, "eastasia": 438.87, "northeurope": 0.0, "southcentralus": 7582.0, "eastus2": 5711.0}, "southcentralus": {"westus": 68.01, "eastasia": 364.09, "northeurope": 193.51, "southcentralus": 0.0, "eastus2": 2038.0}, "eastus2": {"westus": 119.51, "eastasia": 416.77, "northeurope": 141.97, "southcentralus": 55.21, "eastus2": 0.0}}
+    "inter_region" : {"westus": {"westus": "0.0ms", "eastasia": "299.38ms", "northeurope": "258.23ms", "southcentralus": "68.01ms", "eastus2": "119.51ms"}, "eastasia": {"westus": "299.38ms", "eastasia": "0.0ms", "northeurope": "438.87ms", "southcentralus": "364.09ms", "eastus2": "416.77ms"}, "northeurope": {"westus": "258.23ms", "eastasia": "438.87ms", "northeurope": "0.0ms", "southcentralus": "193.51ms", "eastus2": "141.97ms"}, "southcentralus": {"westus": "68.01ms", "eastasia": "364.09ms", "northeurope": "193.51ms", "southcentralus": "0.0ms", "eastus2": "55.21ms"}, "eastus2": {"westus": "119.51ms", "eastasia": "416.77ms", "northeurope": "141.97ms", "southcentralus": "55.21ms", "eastus2": "0.0ms"}}
 
 
 }
