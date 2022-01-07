@@ -9,60 +9,26 @@
     "dcs" : {
         "h6" : {
             "displayName": "West US",
-            "latitude": "37.783",
-            "longitude": "-122.417",
+            "latitude": "29.4167",
+            "longitude": "-98.5",
             "name": "westus",
             "id":"",
             "subscriptionId" : "",
             "ip":"10.0.0.6"
-        },
-        "h3" : {
-            "displayName": "East Asia",
-            "latitude": "22.267",
-            "longitude": "114.188",
-            "name": "eastasia",
-            "id":"",
-            "subscriptionId" : "",
-            "ip":"10.0.0.3"
-        },
-        "h2" : {
-            "displayName": "North Europe",
-            "latitude": "53.3478",
-            "longitude": "-6.2597",
-            "name": "northeurope",
-            "id":"",
-            "subscriptionId" : "",
-            "ip":"10.0.0.2"
         }
     },
     "clients" : {
         "h8" : {
             "latitude": "29.4167",
             "longitude": "-98.5",
-            "ip":"10.0.0.8",
-            "region":"southcentralus"
-        },
-        "h4" : {
-            "latitude": "53.3478",
-            "longitude": "-6.2597",
-            "region": "northeurope",
-            "ip":"10.0.0.4"
-
-
-        },
-        "h5" : {
-            "latitude": "36.6681",
-            "longitude": "-78.3889",
-            "region": "eastus2",
-            "ip":"10.0.0.5"
-        }
-
+            "region": "westus",
+            "ip":"10.0.0.8"
+        }           
 
     },
 
-    
-
-    "inter_region" : {"westus": {"westus": "0.0ms", "eastasia": "299.38ms", "northeurope": "258.23ms", "southcentralus": "68.01ms", "eastus2": "119.51ms"}, "eastasia": {"westus": "299.38ms", "eastasia": "0.0ms", "northeurope": "438.87ms", "southcentralus": "364.09ms", "eastus2": "416.77ms"}, "northeurope": {"westus": "258.23ms", "eastasia": "438.87ms", "northeurope": "0.0ms", "southcentralus": "193.51ms", "eastus2": "141.97ms"}, "southcentralus": {"westus": "68.01ms", "eastasia": "364.09ms", "northeurope": "193.51ms", "southcentralus": "0.0ms", "eastus2": "55.21ms"}, "eastus2": {"westus": "119.51ms", "eastasia": "416.77ms", "northeurope": "141.97ms", "southcentralus": "55.21ms", "eastus2": "0.0ms"}}
-
+    "inter_region" : {
+        "westus" : {"westus":"0ms"}
+    }
 
 }
