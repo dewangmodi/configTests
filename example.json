@@ -19,16 +19,14 @@
     },
     "clients" : {
         "h8" : {
-            "latitude": "29.4167",
-            "longitude": "-98.5",
-            "region": "westus",
-            "ip":"10.0.0.8"
+            "latitude" : 36.783,
+            "longitude" : -121.417,
+            "ip":"10.0.0.8",
+            "region":"southcentralus"
         }           
 
     },
 
-    "inter_region" : {
-        "westus" : {"westus":"0ms"}
-    }
+    "inter_region" : {"westus": {"westus": "0.0ms", "southcentralus": "136.02ms"}, "southcentralus": {"westus": "136.02ms", "southcentralus": "0.0ms"}}
 
 }
