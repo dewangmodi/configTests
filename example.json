@@ -1,32 +1,11 @@
-{
-    "controller":{
-        "name":"h1",
-        "ip":"10.0.0.1",
-        "initial_dc":"h2",
-        "region": "westus"
-    },
+controller_node: 'h1'
+initial_gc: 'h2'
+controller_port: 5000
 
-    "dcs" : {
-        "h6" : {
-            "displayName": "West US",
-            "latitude": "29.4167",
-            "longitude": "-98.5",
-            "name": "westus",
-            "id":"",
-            "subscriptionId" : "",
-            "ip":"10.0.0.6"
-        }
-    },
-    "clients" : {
-        "h8" : {
-            "latitude" : 36.783,
-            "longitude" : -121.417,
-            "ip":"10.0.0.8",
-            "region":"southcentralus"
-        }           
+events:
+    # expects ts to be in sorted order
+    - ts: 20 # in seconds, relative to when initial controller node and gc start
+      active: {'h8' : 1} # number of active users at this timestamp
 
-    },
 
-    "inter_region" : {"westus": {"westus": "0.0ms", "southcentralus": "136.02ms"}, "southcentralus": {"westus": "136.02ms", "southcentralus": "0.0ms"}}
-
-}
+end_ts: 300 # timestamp of ending all users
