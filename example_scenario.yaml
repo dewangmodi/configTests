@@ -8,4 +8,4 @@ events:
       active: {'h8' : 1} # number of active users at this timestamp
 
 
-end_ts: 300 # timestamp of ending all users
+end_ts: 600 # timestamp of ending all users
