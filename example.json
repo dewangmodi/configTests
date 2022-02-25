@@ -27,5 +27,5 @@
 
     },
 
-    "inter_region" : {"westus": {"westus": "0.0ms", "southcentralus": "34.005ms"}, "southcentralus": {"westus": "34.005ms", "southcentralus": "0.0ms"}}
+    "inter_region" : {"westus": {"westus": "0.0ms", "southcentralus": "17.0025ms"}, "southcentralus": {"westus": "17.0025ms", "southcentralus": "0.0ms"}}
 }
