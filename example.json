@@ -72,18 +72,12 @@
             "ip":"10.0.0.8"
         },
         "h9" : {
-            "latitude": "-23.55",
-            "longitude": "-46.633",
-            "region": "brazilsouth",
+            "latitude": "-33.86",
+            "longitude": "151.2094",
+            "region": "australiaeast",
             "ip":"10.0.0.9"
-        },
-        "h10" : {
-            "latitude": "29.4167",
-            "longitude": "-98.5",
-            "ip":"10.0.0.10",
-            "region":"southcentralus"
         }
     },
 
-    "inter_region" : {"southcentralus": {"southcentralus": "0.0ms", "southeastasia": "100.63ms", "eastus": "16.155ms", "northeurope": "48.3775ms", "brazilsouth": "69.915ms", "australiaeast": "86.97ms", "uksouth": "52.85ms"}, "southeastasia": {"southcentralus": "100.63ms", "southeastasia": "0.0ms", "eastus": "109.55ms", "northeurope": "95.745ms", "brazilsouth": "164.16ms", "australiaeast": "50.3ms", "uksouth": "89.285ms"}, "eastus": {"southcentralus": "16.155ms", "southeastasia": "109.55ms", "eastus": "0.0ms", "northeurope": "33.285ms", "brazilsouth": "58.515ms", "australiaeast": "102.1575ms", "uksouth": "37.7125ms"}, "northeurope": {"southcentralus": "48.3775ms", "southeastasia": "95.745ms", "eastus": "33.285ms", "northeurope": "0.0ms", "brazilsouth": "85.8775ms", "australiaeast": "134.495ms", "uksouth": "5.5575ms"}, "brazilsouth": {"southcentralus": "69.915ms", "southeastasia": "164.16ms", "eastus": "58.515ms", "northeurope": "85.8775ms", "brazilsouth": "0.0ms", "australiaeast": "156.0525ms", "uksouth": "85.8775ms"}, "australiaeast": {"southcentralus": "86.97ms", "southeastasia": "50.3ms", "eastus": "102.1575ms", "northeurope": "134.495ms", "brazilsouth": "156.0525ms", "australiaeast": "0.0ms", "uksouth": "138.9125ms"}, "uksouth": {"southcentralus": "52.85ms", "southeastasia": "89.285ms", "eastus": "37.7125ms", "northeurope": "5.5575ms", "brazilsouth": "85.8775ms", "australiaeast": "138.9125ms", "uksouth": "0.0ms"}}
+    "inter_region" : {"australiaeast": {"australiaeast": "0.0ms", "brazilsouth": "156.0525ms", "uksouth": "138.9125ms", "eastus": "102.1575ms", "southeastasia": "50.3ms", "southcentralus": "86.97ms", "northeurope": "134.495ms"}, "brazilsouth": {"australiaeast": "156.0525ms", "brazilsouth": "0.0ms", "uksouth": "85.8775ms", "eastus": "58.515ms", "southeastasia": "164.16ms", "southcentralus": "69.915ms", "northeurope": "85.8775ms"}, "uksouth": {"australiaeast": "138.9125ms", "brazilsouth": "85.8775ms", "uksouth": "0.0ms", "eastus": "37.7125ms", "southeastasia": "89.285ms", "southcentralus": "52.85ms", "northeurope": "5.5575ms"}, "eastus": {"australiaeast": "102.1575ms", "brazilsouth": "58.515ms", "uksouth": "37.7125ms", "eastus": "0.0ms", "southeastasia": "109.55ms", "southcentralus": "16.155ms", "northeurope": "33.285ms"}, "southeastasia": {"australiaeast": "50.3ms", "brazilsouth": "164.16ms", "uksouth": "89.285ms", "eastus": "109.55ms", "southeastasia": "0.0ms", "southcentralus": "100.63ms", "northeurope": "95.745ms"}, "southcentralus": {"australiaeast": "86.97ms", "brazilsouth": "69.915ms", "uksouth": "52.85ms", "eastus": "16.155ms", "southeastasia": "100.63ms", "southcentralus": "0.0ms", "northeurope": "48.3775ms"}, "northeurope": {"australiaeast": "134.495ms", "brazilsouth": "85.8775ms", "uksouth": "5.5575ms", "eastus": "33.285ms", "southeastasia": "95.745ms", "southcentralus": "48.3775ms", "northeurope": "0.0ms"}}
 }
