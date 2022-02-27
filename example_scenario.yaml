@@ -33,4 +33,4 @@ events:
     - ts: 600
       active: {'h8' : 5, 'h9' : 10}
 
-end_ts: 600 # timestamp of ending all users
+end_ts: 660 # timestamp of ending all users
