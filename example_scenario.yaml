@@ -1,6 +1,6 @@
 events:
     # expects ts to be in sorted order
-    - ts: 60 # in seconds, relative to when initial controller node and gc start
+    - ts: 0 # in seconds, relative to when initial controller node and gc start
       active: {'h8' : 5} # number of active users at this timestamp
 
     - ts: 60
