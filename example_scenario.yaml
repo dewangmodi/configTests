@@ -1,25 +1,6 @@
 events:
     # expects ts to be in sorted order
-    - ts: 60 # in seconds, relative to when initial controller node and gc start
-      active: {'h8' : 2} # number of active users at this timestamp
+    - ts: 0 # in seconds, relative to when initial controller node and gc start
+      active: {'h3' : 1} # number of active users at this timestamp
 
-    - ts: 360
-      active: {'h8' : 2, 'h9' : 1}
-
-    - ts: 420
-      active: {'h8' : 2, 'h9' : 2}
-
-    - ts: 480
-      active: {'h8' : 2, 'h9' : 3}
-
-    - ts: 540
-      active: {'h8' : 2, 'h9' : 4}
-
-    - ts: 600
-      active: {'h8' : 2, 'h9' : 5}
-
-    - ts: 720
-      active: {'h8' : 2, 'h9' : 5, 'h10' : 10}
-
-
-end_ts: 900 # timestamp of ending all users
+end_ts: 300 # timestamp of ending all users
