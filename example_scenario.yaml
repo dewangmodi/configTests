@@ -3,4 +3,4 @@ events:
     - ts: 0 # in seconds, relative to when initial controller node and gc start
       active: {'h3' : 1} # number of active users at this timestamp
 
-end_ts: 300 # timestamp of ending all users
+end_ts: 600 # timestamp of ending all users
