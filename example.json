@@ -2,13 +2,13 @@
     "controller":{
         "name":"h1",
         "ip":"10.0.0.1",
-        "initial_dc":"h2",
+        "initial_dc":"h4",
         "region": "eastus",
         "port":"5000"
     },
 
     "dcs" : {
-        "h2" : {
+        "h4" : {
             "displayName": "East US",
             "id": "/subscriptions/cf58b528-85d3-4ed0-ad80-f1f1970213c8/locations/eastus",
             "latitude": "37.3719",
@@ -16,11 +16,36 @@
             "name": "eastus",
             "subscriptionId": null,
             "ip":"10.0.0.4"
+        },
+        "h5" : {
+            "displayName": "Australia East",
+            "id": "/subscriptions/cf58b528-85d3-4ed0-ad80-f1f1970213c8/locations/australiaeast",
+            "latitude": "-33.86",
+            "longitude": "151.2094",
+            "name": "australiaeast",
+            "subscriptionId": null,
+            "ip":"10.0.0.5"
+        },
+        "h6" : {
+            "displayName": "UK South",
+            "id": "",
+            "latitude": "50.941",
+            "longitude": "-0.799",
+            "name": "uksouth",
+            "subscriptionId": null,
+            "ip":"10.0.0.6"
         }
+
 
     },
     "clients" : {
-        "h3" : {
+        "h8" : {
+            "latitude": "50.941",
+            "longitude": "-0.799",
+            "region": "uksouth",
+            "ip":"10.0.0.8"
+        },
+        "h9" : {
             "latitude": "-33.86",
             "longitude": "151.2094",
             "region": "australiaeast",
@@ -28,6 +53,5 @@
         }
     },
 
-    "inter_region" : {"australiaeast": {"australiaeast": "0.0ms", "eastus": "102.1575ms"}, "eastus": {"australiaeast": "102.1575ms", "eastus": "0.0ms"}}
-
+    "inter_region" : {"australiaeast": {"australiaeast": "0.0ms", "brazilsouth": "156.0525ms", "uksouth": "138.9125ms", "eastus": "102.1575ms", "southeastasia": "50.3ms", "southcentralus": "86.97ms", "northeurope": "134.495ms"}, "brazilsouth": {"australiaeast": "156.0525ms", "brazilsouth": "0.0ms", "uksouth": "85.8775ms", "eastus": "58.515ms", "southeastasia": "164.16ms", "southcentralus": "69.915ms", "northeurope": "85.8775ms"}, "uksouth": {"australiaeast": "138.9125ms", "brazilsouth": "85.8775ms", "uksouth": "0.0ms", "eastus": "37.7125ms", "southeastasia": "89.285ms", "southcentralus": "52.85ms", "northeurope": "5.5575ms"}, "eastus": {"australiaeast": "102.1575ms", "brazilsouth": "58.515ms", "uksouth": "37.7125ms", "eastus": "0.0ms", "southeastasia": "109.55ms", "southcentralus": "16.155ms", "northeurope": "33.285ms"}, "southeastasia": {"australiaeast": "50.3ms", "brazilsouth": "164.16ms", "uksouth": "89.285ms", "eastus": "109.55ms", "southeastasia": "0.0ms", "southcentralus": "100.63ms", "northeurope": "95.745ms"}, "southcentralus": {"australiaeast": "86.97ms", "brazilsouth": "69.915ms", "uksouth": "52.85ms", "eastus": "16.155ms", "southeastasia": "100.63ms", "southcentralus": "0.0ms", "northeurope": "48.3775ms"}, "northeurope": {"australiaeast": "134.495ms", "brazilsouth": "85.8775ms", "uksouth": "5.5575ms", "eastus": "33.285ms", "southeastasia": "95.745ms", "southcentralus": "48.3775ms", "northeurope": "0.0ms"}}
 }
