@@ -19,18 +19,18 @@ events:
       active: {'h8' : 5, 'h9' : 5}
 
     - ts: 360
-      active: {'h8' : 5, 'h9' : 6}
+      active: {'h8' : 2, 'h9' : 6}
 
     - ts: 420
-      active: {'h8' : 5, 'h9' : 7}
+      active: {'h8' : 2, 'h9' : 7}
 
     - ts: 480
-      active: {'h8' : 5, 'h9' : 8}
+      active: {'h8' : 2, 'h9' : 8}
 
     - ts: 540
-      active: {'h8' : 5, 'h9' : 9}
+      active: {'h8' : 2, 'h9' : 9}
 
     - ts: 600
-      active: {'h8' : 5, 'h9' : 10}
+      active: {'h8' : 2, 'h9' : 10}
 
 end_ts: 660 # timestamp of ending all users
