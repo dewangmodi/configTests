@@ -1,79 +1,184 @@
 events:
-    # expects ts to be in sorted order
+
+
     - ts: 0
-      active: {'h8' : 2, 'h9' : 0}
+      active: {"h8": 10, "h9": 0}
 
-    - ts: 30
-      active: {'h8' : 2, 'h9' : 1}
+    - ts: 27.0
+      active: {"h8": 9, "h9": 1}
 
-    - ts: 60
-      active: {'h8' : 2, 'h9' : 2}
+    - ts: 54.0
+      active: {"h8": 8, "h9": 2}
 
-    - ts: 90
-      active: {'h8' : 1, 'h9' : 2}
+    - ts: 81.0
+      active: {"h8": 7, "h9": 3}
 
-    - ts: 120
-      active: {'h8' : 0, 'h9' : 2}
+    - ts: 108.0
+      active: {"h8": 6, "h9": 4}
 
-    - ts: 150
-      active: {'h8' : 0, 'h9' : 1}
+    - ts: 135.0
+      active: {"h8": 5, "h9": 5}
 
-    - ts: 180
-      active: {'h8' : 0, 'h9' : 0}
+    - ts: 162.0
+      active: {"h8": 4, "h9": 6}
 
-    - ts: 210
-      active: {'h8' : 1, 'h9' : 0}
+    - ts: 189.0
+      active: {"h8": 3, "h9": 7}
 
-    - ts: 240
-      active: {'h8' : 2, 'h9' : 0}
+    - ts: 216.0
+      active: {"h8": 2, "h9": 8}
 
-    - ts: 270
-      active: {'h8' : 2, 'h9' : 1}
+    - ts: 243.0
+      active: {"h8": 1, "h9": 9}
 
-    - ts: 300
-      active: {'h8' : 2, 'h9' : 2}
+    - ts: 270.0
+      active: {"h8": 0, "h9": 10}
 
-    - ts: 330
-      active: {'h8' : 1, 'h9' : 2}
+    - ts: 297.0
+      active: {"h8": 1, "h9": 9}
 
-    - ts: 360
-      active: {'h8' : 0, 'h9' : 2}
+    - ts: 324.0
+      active: {"h8": 2, "h9": 8}
 
-    - ts: 390
-      active: {'h8' : 0, 'h9' : 1}
+    - ts: 351.0
+      active: {"h8": 3, "h9": 7}
 
-    - ts: 420
-      active: {'h8' : 0, 'h9' : 0}
+    - ts: 378.0
+      active: {"h8": 4, "h9": 6}
 
-    - ts: 450
-      active: {'h8' : 1, 'h9' : 0}
+    - ts: 405.0
+      active: {"h8": 5, "h9": 5}
 
-    - ts: 480
-      active: {'h8' : 2, 'h9' : 0}
+    - ts: 432.0
+      active: {"h8": 6, "h9": 4}
 
-    - ts: 510
-      active: {'h8' : 2, 'h9' : 1}
+    - ts: 459.0
+      active: {"h8": 7, "h9": 3}
 
-    - ts: 540
-      active: {'h8' : 2, 'h9' : 2}
+    - ts: 486.0
+      active: {"h8": 8, "h9": 2}
 
-    - ts: 570
-      active: {'h8' : 1, 'h9' : 2}
+    - ts: 513.0
+      active: {"h8": 9, "h9": 1}
 
-    - ts: 600
-      active: {'h8' : 0, 'h9' : 2}
+    - ts: 540.0
+      active: {"h8": 10, "h9": 0}
 
-    - ts: 630
-      active: {'h8' : 0, 'h9' : 1}
+    - ts: 567.0
+      active: {"h8": 9, "h9": 1}
 
-    - ts: 660
-      active: {'h8' : 0, 'h9' : 0}
+    - ts: 594.0
+      active: {"h8": 8, "h9": 2}
 
-    - ts: 700
-      active: {'h8' : 1, 'h9' : 0}
+    - ts: 621.0
+      active: {"h8": 7, "h9": 3}
 
-    - ts: 730
-      active: {'h8' : 2, 'h9' : 0}
+    - ts: 648.0
+      active: {"h8": 6, "h9": 4}
 
+    - ts: 675.0
+      active: {"h8": 5, "h9": 5}
 
-end_ts: 760 # timestamp of ending all users
+    - ts: 702.0
+      active: {"h8": 4, "h9": 6}
+
+    - ts: 729.0
+      active: {"h8": 3, "h9": 7}
+
+    - ts: 756.0
+      active: {"h8": 2, "h9": 8}
+
+    - ts: 783.0
+      active: {"h8": 1, "h9": 9}
+
+    - ts: 810.0
+      active: {"h8": 0, "h9": 10}
+
+    - ts: 837.0
+      active: {"h8": 1, "h9": 9}
+
+    - ts: 864.0
+      active: {"h8": 2, "h9": 8}
+
+    - ts: 891.0
+      active: {"h8": 3, "h9": 7}
+
+    - ts: 918.0
+      active: {"h8": 4, "h9": 6}
+
+    - ts: 945.0
+      active: {"h8": 5, "h9": 5}
+
+    - ts: 972.0
+      active: {"h8": 6, "h9": 4}
+
+    - ts: 999.0
+      active: {"h8": 7, "h9": 3}
+
+    - ts: 1026.0
+      active: {"h8": 8, "h9": 2}
+
+    - ts: 1053.0
+      active: {"h8": 9, "h9": 1}
+
+    - ts: 1080.0
+      active: {"h8": 10, "h9": 0}
+
+    - ts: 1107.0
+      active: {"h8": 9, "h9": 1}
+
+    - ts: 1134.0
+      active: {"h8": 8, "h9": 2}
+
+    - ts: 1161.0
+      active: {"h8": 7, "h9": 3}
+
+    - ts: 1188.0
+      active: {"h8": 6, "h9": 4}
+
+    - ts: 1215.0
+      active: {"h8": 5, "h9": 5}
+
+    - ts: 1242.0
+      active: {"h8": 4, "h9": 6}
+
+    - ts: 1269.0
+      active: {"h8": 3, "h9": 7}
+
+    - ts: 1296.0
+      active: {"h8": 2, "h9": 8}
+
+    - ts: 1323.0
+      active: {"h8": 1, "h9": 9}
+
+    - ts: 1350.0
+      active: {"h8": 0, "h9": 10}
+
+    - ts: 1377.0
+      active: {"h8": 1, "h9": 9}
+
+    - ts: 1404.0
+      active: {"h8": 2, "h9": 8}
+
+    - ts: 1431.0
+      active: {"h8": 3, "h9": 7}
+
+    - ts: 1458.0
+      active: {"h8": 4, "h9": 6}
+
+    - ts: 1485.0
+      active: {"h8": 5, "h9": 5}
+
+    - ts: 1512.0
+      active: {"h8": 6, "h9": 4}
+
+    - ts: 1539.0
+      active: {"h8": 7, "h9": 3}
+
+    - ts: 1566.0
+      active: {"h8": 8, "h9": 2}
+
+    - ts: 1593.0
+      active: {"h8": 9, "h9": 1}
+
+end_ts: 1620.0
