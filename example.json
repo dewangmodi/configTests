@@ -27,11 +27,11 @@
             "ip":"10.0.0.5"
         },
         "h6" : {
-            "displayName": "UK South",
-            "id": "",
-            "latitude": "50.941",
-            "longitude": "-0.799",
-            "name": "uksouth",
+            "displayName": "Australia East",
+            "id": "/subscriptions/cf58b528-85d3-4ed0-ad80-f1f1970213c8/locations/australiaeast",
+            "latitude": "-33.86",
+            "longitude": "151.2094",
+            "name": "australiaeast",
             "subscriptionId": null,
             "ip":"10.0.0.6"
         }
@@ -40,9 +40,9 @@
     },
     "clients" : {
         "h8" : {
-            "latitude": "50.941",
-            "longitude": "-0.799",
-            "region": "uksouth",
+            "latitude": "-33.86",
+            "longitude": "151.2094",
+            "region": "australiaeast",
             "ip":"10.0.0.8"
         },
         "h9" : {
