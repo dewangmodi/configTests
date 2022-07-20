@@ -1,0 +1,2 @@
+INFO:root:LAT : -23.55 LON : -46.633
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
