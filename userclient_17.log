@@ -1,0 +1,855 @@
+INFO:root:LAT : -33.86 LON : 151.2094
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
+DEBUG:urllib3.connectionpool:http://20.66.123.181:5000 "POST /client HTTP/1.1" 200 55
+INFO:root:now =2022-07-20 17:31:57.836201
+INFO:root:gc: 20.248.137.93 5002
+INFO:root:Connecting to gc 2022-07-20 17:31:57.836393
+INFO:root:connection established with game container 2022-07-20 17:31:57.850482
+INFO:root:sent ping 2022-07-20 17:31:58.546548
+INFO:root:Connection with gc done 2022-07-20 17:31:58.546919
+INFO:root:2022-07-20 17:31:58.554523Got pong from server
+INFO:root:latency :: 0.008265495300292969
+INFO:root:sent ping 2022-07-20 17:31:59.547995
+INFO:root:2022-07-20 17:31:59.552182Got pong from server
+INFO:root:latency :: 0.004543304443359375
+INFO:root:sent ping 2022-07-20 17:32:00.549483
+INFO:root:2022-07-20 17:32:00.553675Got pong from server
+INFO:root:latency :: 0.0044744014739990234
+INFO:root:sent ping 2022-07-20 17:32:01.551001
+INFO:root:2022-07-20 17:32:01.554877Got pong from server
+INFO:root:latency :: 0.004189491271972656
+INFO:root:sent ping 2022-07-20 17:32:02.552525
+INFO:root:2022-07-20 17:32:02.558808Got pong from server
+INFO:root:latency :: 0.006577014923095703
+INFO:root:sent ping 2022-07-20 17:32:03.554045
+INFO:root:2022-07-20 17:32:03.558524Got pong from server
+INFO:root:latency :: 0.004765748977661133
+INFO:root:sent ping 2022-07-20 17:32:04.555487
+INFO:root:2022-07-20 17:32:04.559806Got pong from server
+INFO:root:latency :: 0.004666566848754883
+INFO:root:sent ping 2022-07-20 17:32:05.556972
+INFO:root:2022-07-20 17:32:05.562076Got pong from server
+INFO:root:latency :: 0.005385637283325195
+INFO:root:sent ping 2022-07-20 17:32:06.558484
+INFO:root:2022-07-20 17:32:06.563770Got pong from server
+INFO:root:latency :: 0.0055942535400390625
+INFO:root:sent ping 2022-07-20 17:32:07.559993
+INFO:root:2022-07-20 17:32:07.568580Got pong from server
+INFO:root:latency :: 0.008862495422363281
+INFO:root:sent ping 2022-07-20 17:32:08.561533
+INFO:root:2022-07-20 17:32:08.569720Got pong from server
+INFO:root:latency :: 0.008534908294677734
+INFO:root:sent ping 2022-07-20 17:32:09.562967
+INFO:root:2022-07-20 17:32:09.567146Got pong from server
+INFO:root:latency :: 0.0045049190521240234
+INFO:root:sent ping 2022-07-20 17:32:10.564422
+INFO:root:2022-07-20 17:32:10.568735Got pong from server
+INFO:root:latency :: 0.004603147506713867
+INFO:root:sent ping 2022-07-20 17:32:11.565962
+INFO:root:2022-07-20 17:32:11.573440Got pong from server
+INFO:root:latency :: 0.007888078689575195
+INFO:root:sent ping 2022-07-20 17:32:12.567470
+INFO:root:2022-07-20 17:32:12.571646Got pong from server
+INFO:root:latency :: 0.004486083984375
+INFO:root:sent ping 2022-07-20 17:32:13.568977
+INFO:root:2022-07-20 17:32:13.574625Got pong from server
+INFO:root:latency :: 0.0059468746185302734
+INFO:root:sent ping 2022-07-20 17:32:14.570513
+INFO:root:2022-07-20 17:32:14.574490Got pong from server
+INFO:root:latency :: 0.004235744476318359
+INFO:root:sent ping 2022-07-20 17:32:15.571994
+INFO:root:2022-07-20 17:32:15.577521Got pong from server
+INFO:root:latency :: 0.005792140960693359
+INFO:root:sent ping 2022-07-20 17:32:16.573573
+INFO:root:2022-07-20 17:32:16.578635Got pong from server
+INFO:root:latency :: 0.005372524261474609
+INFO:root:sent ping 2022-07-20 17:32:17.575043
+INFO:root:2022-07-20 17:32:17.583595Got pong from server
+INFO:root:latency :: 0.008838415145874023
+INFO:root:sent ping 2022-07-20 17:32:18.576860
+INFO:root:2022-07-20 17:32:18.583606Got pong from server
+INFO:root:latency :: 0.007017374038696289
+INFO:root:sent ping 2022-07-20 17:32:19.578369
+INFO:root:2022-07-20 17:32:19.582846Got pong from server
+INFO:root:latency :: 0.004865407943725586
+INFO:root:sent ping 2022-07-20 17:32:20.579832
+INFO:root:2022-07-20 17:32:20.585620Got pong from server
+INFO:root:latency :: 0.0060672760009765625
+INFO:root:sent ping 2022-07-20 17:32:21.581399
+INFO:root:2022-07-20 17:32:21.586975Got pong from server
+INFO:root:latency :: 0.005906581878662109
+INFO:root:sent ping 2022-07-20 17:32:22.582855
+INFO:root:2022-07-20 17:32:22.587854Got pong from server
+INFO:root:latency :: 0.005303144454956055
+INFO:root:sent ping 2022-07-20 17:32:23.584437
+INFO:root:2022-07-20 17:32:23.592849Got pong from server
+INFO:root:latency :: 0.008768796920776367
+INFO:root:sent ping 2022-07-20 17:32:24.585513
+INFO:root:2022-07-20 17:32:24.593478Got pong from server
+INFO:root:latency :: 0.008239507675170898
+INFO:root:sent ping 2022-07-20 17:32:25.586897
+INFO:root:2022-07-20 17:32:25.592004Got pong from server
+INFO:root:latency :: 0.005403995513916016
+INFO:root:sent ping 2022-07-20 17:32:26.588425
+INFO:root:2022-07-20 17:32:26.594842Got pong from server
+INFO:root:latency :: 0.006800413131713867
+INFO:root:sent ping 2022-07-20 17:32:27.589962
+INFO:root:2022-07-20 17:32:27.594608Got pong from server
+INFO:root:latency :: 0.005027055740356445
+INFO:root:{'mean_latency': 6.030893325805664, 'std_dev_latency': 1.5354132067323292, 'req_rate': 0.998353193663197}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
+DEBUG:urllib3.connectionpool:http://20.66.123.181:5000 "POST /client_stats HTTP/1.1" 204 0
+INFO:root:2022-07-20 17:32:27.882236 controller reply to user stats : 
+INFO:root:empty resp
+INFO:root:sent ping 2022-07-20 17:32:28.591171
+INFO:root:2022-07-20 17:32:28.596453Got pong from server
+INFO:root:latency :: 0.005578517913818359
+INFO:root:sent ping 2022-07-20 17:32:29.592604
+INFO:root:2022-07-20 17:32:29.598412Got pong from server
+INFO:root:latency :: 0.006111860275268555
+INFO:root:sent ping 2022-07-20 17:32:30.594105
+INFO:root:2022-07-20 17:32:30.598214Got pong from server
+INFO:root:latency :: 0.004454374313354492
+INFO:root:sent ping 2022-07-20 17:32:31.595531
+INFO:root:2022-07-20 17:32:31.604277Got pong from server
+INFO:root:latency :: 0.009079456329345703
+INFO:root:sent ping 2022-07-20 17:32:32.596972
+INFO:root:2022-07-20 17:32:32.602877Got pong from server
+INFO:root:latency :: 0.006261348724365234
+INFO:root:sent ping 2022-07-20 17:32:33.598443
+INFO:root:2022-07-20 17:32:33.602895Got pong from server
+INFO:root:latency :: 0.0047948360443115234
+INFO:root:sent ping 2022-07-20 17:32:34.599961
+INFO:root:2022-07-20 17:32:34.606724Got pong from server
+INFO:root:latency :: 0.007055759429931641
+INFO:root:sent ping 2022-07-20 17:32:35.601496
+INFO:root:2022-07-20 17:32:35.605429Got pong from server
+INFO:root:latency :: 0.0042552947998046875
+INFO:root:sent ping 2022-07-20 17:32:36.603150
+INFO:root:2022-07-20 17:32:36.608765Got pong from server
+INFO:root:latency :: 0.005990028381347656
+INFO:root:sent ping 2022-07-20 17:32:37.605136
+INFO:root:2022-07-20 17:32:37.609556Got pong from server
+INFO:root:latency :: 0.004739999771118164
+INFO:root:sent ping 2022-07-20 17:32:38.606572
+INFO:root:2022-07-20 17:32:38.610395Got pong from server
+INFO:root:latency :: 0.004114627838134766
+INFO:root:sent ping 2022-07-20 17:32:39.608090
+INFO:root:2022-07-20 17:32:39.613022Got pong from server
+INFO:root:latency :: 0.005239963531494141
+INFO:root:sent ping 2022-07-20 17:32:40.609530
+INFO:root:2022-07-20 17:32:40.615216Got pong from server
+INFO:root:latency :: 0.006037473678588867
+INFO:root:sent ping 2022-07-20 17:32:41.610971
+INFO:root:2022-07-20 17:32:41.616499Got pong from server
+INFO:root:latency :: 0.0058934688568115234
+INFO:root:sent ping 2022-07-20 17:32:42.612423
+INFO:root:2022-07-20 17:32:42.617836Got pong from server
+INFO:root:latency :: 0.00575709342956543
+INFO:root:sent ping 2022-07-20 17:32:43.614849
+INFO:root:2022-07-20 17:32:43.620182Got pong from server
+INFO:root:latency :: 0.00569605827331543
+INFO:root:sent ping 2022-07-20 17:32:44.616279
+INFO:root:2022-07-20 17:32:44.620890Got pong from server
+INFO:root:latency :: 0.004881858825683594
+INFO:root:sent ping 2022-07-20 17:32:45.617811
+INFO:root:2022-07-20 17:32:45.622864Got pong from server
+INFO:root:latency :: 0.005437612533569336
+INFO:root:sent ping 2022-07-20 17:32:46.619393
+INFO:root:2022-07-20 17:32:46.624722Got pong from server
+INFO:root:latency :: 0.005667924880981445
+INFO:root:sent ping 2022-07-20 17:32:47.625659
+INFO:root:2022-07-20 17:32:47.635198Got pong from server
+INFO:root:latency :: 0.009880781173706055
+INFO:root:sent ping 2022-07-20 17:32:48.627093
+INFO:root:2022-07-20 17:32:48.631844Got pong from server
+INFO:root:latency :: 0.005057811737060547
+INFO:root:sent ping 2022-07-20 17:32:49.628926
+INFO:root:2022-07-20 17:32:49.634846Got pong from server
+INFO:root:latency :: 0.006217002868652344
+INFO:root:sent ping 2022-07-20 17:32:50.630391
+INFO:root:2022-07-20 17:32:50.634629Got pong from server
+INFO:root:latency :: 0.004566192626953125
+INFO:root:sent ping 2022-07-20 17:32:51.632696
+INFO:root:2022-07-20 17:32:51.642485Got pong from server
+INFO:root:latency :: 0.010935306549072266
+INFO:root:sent ping 2022-07-20 17:32:52.634107
+INFO:root:2022-07-20 17:32:52.643616Got pong from server
+INFO:root:latency :: 0.009801149368286133
+INFO:root:sent ping 2022-07-20 17:32:53.635543
+INFO:root:2022-07-20 17:32:53.640999Got pong from server
+INFO:root:latency :: 0.005765199661254883
+INFO:root:sent ping 2022-07-20 17:32:54.637428
+INFO:root:2022-07-20 17:32:54.644367Got pong from server
+INFO:root:latency :: 0.00735163688659668
+INFO:root:sent ping 2022-07-20 17:32:55.638908
+INFO:root:2022-07-20 17:32:55.644102Got pong from server
+INFO:root:latency :: 0.00546717643737793
+INFO:root:sent ping 2022-07-20 17:32:56.640468
+INFO:root:2022-07-20 17:32:56.648488Got pong from server
+INFO:root:latency :: 0.00836324691772461
+INFO:root:sent ping 2022-07-20 17:32:57.641929
+INFO:root:2022-07-20 17:32:57.648612Got pong from server
+INFO:root:latency :: 0.006986856460571289
+INFO:root:sent ping 2022-07-20 17:32:58.643446
+INFO:root:2022-07-20 17:32:58.648977Got pong from server
+INFO:root:latency :: 0.0059282779693603516
+INFO:root:{'mean_latency': 6.237683757658927, 'std_dev_latency': 1.6957072316254342, 'req_rate': 1.0076231480171591}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
+DEBUG:urllib3.connectionpool:http://20.66.123.181:5000 "POST /client_stats HTTP/1.1" 204 0
+INFO:root:2022-07-20 17:32:58.939026 controller reply to user stats : 
+INFO:root:empty resp
+INFO:root:sent ping 2022-07-20 17:32:59.644712
+INFO:root:2022-07-20 17:32:59.650750Got pong from server
+INFO:root:latency :: 0.006411552429199219
+INFO:root:sent ping 2022-07-20 17:33:00.646418
+INFO:root:2022-07-20 17:33:00.650211Got pong from server
+INFO:root:latency :: 0.00422358512878418
+INFO:root:sent ping 2022-07-20 17:33:01.647977
+INFO:root:2022-07-20 17:33:01.653528Got pong from server
+INFO:root:latency :: 0.00584721565246582
+INFO:root:sent ping 2022-07-20 17:33:02.649462
+INFO:root:2022-07-20 17:33:02.655760Got pong from server
+INFO:root:latency :: 0.0066471099853515625
+INFO:root:sent ping 2022-07-20 17:33:03.650897
+INFO:root:2022-07-20 17:33:03.656032Got pong from server
+INFO:root:latency :: 0.0054318904876708984
+INFO:root:sent ping 2022-07-20 17:33:04.652392
+INFO:root:2022-07-20 17:33:04.656992Got pong from server
+INFO:root:latency :: 0.00497889518737793
+INFO:root:sent ping 2022-07-20 17:33:05.653852
+INFO:root:2022-07-20 17:33:05.660572Got pong from server
+INFO:root:latency :: 0.007025241851806641
+INFO:root:sent ping 2022-07-20 17:33:06.655368
+INFO:root:2022-07-20 17:33:06.661543Got pong from server
+INFO:root:latency :: 0.006848812103271484
+INFO:root:sent ping 2022-07-20 17:33:07.656811
+INFO:root:2022-07-20 17:33:07.662457Got pong from server
+INFO:root:latency :: 0.0059430599212646484
+INFO:root:sent ping 2022-07-20 17:33:08.658247
+INFO:root:2022-07-20 17:33:08.662621Got pong from server
+INFO:root:latency :: 0.004686832427978516
+INFO:root:sent ping 2022-07-20 17:33:09.659767
+INFO:root:2022-07-20 17:33:09.664774Got pong from server
+INFO:root:latency :: 0.005323886871337891
+INFO:root:sent ping 2022-07-20 17:33:10.661234
+INFO:root:2022-07-20 17:33:10.664803Got pong from server
+INFO:root:latency :: 0.0038454532623291016
+INFO:root:sent ping 2022-07-20 17:33:11.662711
+INFO:root:2022-07-20 17:33:11.668253Got pong from server
+INFO:root:latency :: 0.0059261322021484375
+INFO:root:sent ping 2022-07-20 17:33:12.664384
+INFO:root:2022-07-20 17:33:12.670652Got pong from server
+INFO:root:latency :: 0.006697416305541992
+INFO:root:sent ping 2022-07-20 17:33:13.665914
+INFO:root:2022-07-20 17:33:13.672745Got pong from server
+INFO:root:latency :: 0.007190704345703125
+INFO:root:sent ping 2022-07-20 17:33:14.667543
+INFO:root:2022-07-20 17:33:14.671849Got pong from server
+INFO:root:latency :: 0.00472712516784668
+INFO:root:sent ping 2022-07-20 17:33:15.669112
+INFO:root:2022-07-20 17:33:15.676525Got pong from server
+INFO:root:latency :: 0.007730245590209961
+INFO:root:sent ping 2022-07-20 17:33:16.670581
+INFO:root:2022-07-20 17:33:16.675756Got pong from server
+INFO:root:latency :: 0.0054590702056884766
+INFO:root:sent ping 2022-07-20 17:33:17.671647
+INFO:root:2022-07-20 17:33:17.681554Got pong from server
+INFO:root:latency :: 0.010222911834716797
+INFO:root:sent ping 2022-07-20 17:33:18.673172
+INFO:root:2022-07-20 17:33:18.678515Got pong from server
+INFO:root:latency :: 0.005625247955322266
+INFO:root:sent ping 2022-07-20 17:33:19.674611
+INFO:root:2022-07-20 17:33:19.680948Got pong from server
+INFO:root:latency :: 0.0066530704498291016
+INFO:root:sent ping 2022-07-20 17:33:20.676167
+INFO:root:2022-07-20 17:33:20.681697Got pong from server
+INFO:root:latency :: 0.005893707275390625
+INFO:root:sent ping 2022-07-20 17:33:21.678183
+INFO:root:2022-07-20 17:33:21.682310Got pong from server
+INFO:root:latency :: 0.00446009635925293
+INFO:root:sent ping 2022-07-20 17:33:22.679695
+INFO:root:2022-07-20 17:33:22.685522Got pong from server
+INFO:root:latency :: 0.006119728088378906
+INFO:root:sent ping 2022-07-20 17:33:23.681162
+INFO:root:2022-07-20 17:33:23.685579Got pong from server
+INFO:root:latency :: 0.004705190658569336
+INFO:root:sent ping 2022-07-20 17:33:24.682576
+INFO:root:2022-07-20 17:33:24.687448Got pong from server
+INFO:root:latency :: 0.00514674186706543
+INFO:root:sent ping 2022-07-20 17:33:25.684068
+INFO:root:2022-07-20 17:33:25.688555Got pong from server
+INFO:root:latency :: 0.004853248596191406
+INFO:root:sent ping 2022-07-20 17:33:26.685564
+INFO:root:2022-07-20 17:33:26.692690Got pong from server
+INFO:root:latency :: 0.007445335388183594
+INFO:root:sent ping 2022-07-20 17:33:27.687163
+INFO:root:2022-07-20 17:33:27.693833Got pong from server
+INFO:root:latency :: 0.0069866180419921875
+INFO:root:sent ping 2022-07-20 17:33:28.688853
+INFO:root:2022-07-20 17:33:28.694043Got pong from server
+INFO:root:latency :: 0.005502939224243164
+INFO:root:sent ping 2022-07-20 17:33:29.690346
+INFO:root:2022-07-20 17:33:29.695927Got pong from server
+INFO:root:latency :: 0.0058879852294921875
+INFO:root:{'mean_latency': 5.949904841761435, 'std_dev_latency': 1.2483263223298056, 'req_rate': 1.007894820906605}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
+DEBUG:urllib3.connectionpool:http://20.66.123.181:5000 "POST /client_stats HTTP/1.1" 204 0
+INFO:root:2022-07-20 17:33:29.995780 controller reply to user stats : 
+INFO:root:empty resp
+INFO:root:sent ping 2022-07-20 17:33:30.691496
+INFO:root:2022-07-20 17:33:30.696710Got pong from server
+INFO:root:latency :: 0.005483150482177734
+INFO:root:sent ping 2022-07-20 17:33:31.692987
+INFO:root:2022-07-20 17:33:31.700582Got pong from server
+INFO:root:latency :: 0.007874727249145508
+INFO:root:sent ping 2022-07-20 17:33:32.694444
+INFO:root:2022-07-20 17:33:32.699851Got pong from server
+INFO:root:latency :: 0.005722999572753906
+INFO:root:sent ping 2022-07-20 17:33:33.696049
+INFO:root:2022-07-20 17:33:33.701769Got pong from server
+INFO:root:latency :: 0.0060977935791015625
+INFO:root:sent ping 2022-07-20 17:33:34.697586
+INFO:root:2022-07-20 17:33:34.703574Got pong from server
+INFO:root:latency :: 0.006287813186645508
+INFO:root:sent ping 2022-07-20 17:33:35.699014
+INFO:root:2022-07-20 17:33:35.703719Got pong from server
+INFO:root:latency :: 0.004970073699951172
+INFO:root:sent ping 2022-07-20 17:33:36.700526
+INFO:root:2022-07-20 17:33:36.706636Got pong from server
+INFO:root:latency :: 0.006410360336303711
+INFO:root:sent ping 2022-07-20 17:33:37.702051
+INFO:root:2022-07-20 17:33:37.709535Got pong from server
+INFO:root:latency :: 0.007792234420776367
+INFO:root:sent ping 2022-07-20 17:33:38.703599
+INFO:root:2022-07-20 17:33:38.707850Got pong from server
+INFO:root:latency :: 0.004581451416015625
+INFO:root:sent ping 2022-07-20 17:33:39.705050
+INFO:root:2022-07-20 17:33:39.721663Got pong from server
+INFO:root:latency :: 0.016907453536987305
+INFO:root:sent ping 2022-07-20 17:33:40.706539
+INFO:root:2022-07-20 17:33:40.711526Got pong from server
+INFO:root:latency :: 0.005298137664794922
+INFO:root:sent ping 2022-07-20 17:33:41.708131
+INFO:root:2022-07-20 17:33:41.717982Got pong from server
+INFO:root:latency :: 0.010167837142944336
+INFO:root:sent ping 2022-07-20 17:33:42.709687
+INFO:root:2022-07-20 17:33:42.714730Got pong from server
+INFO:root:latency :: 0.00534367561340332
+INFO:root:sent ping 2022-07-20 17:33:43.711243
+INFO:root:2022-07-20 17:33:43.717748Got pong from server
+INFO:root:latency :: 0.006885528564453125
+INFO:root:sent ping 2022-07-20 17:33:44.712811
+INFO:root:2022-07-20 17:33:44.735791Got pong from server
+INFO:root:latency :: 0.023323774337768555
+INFO:root:sent ping 2022-07-20 17:33:45.714392
+INFO:root:2022-07-20 17:33:45.722164Got pong from server
+INFO:root:latency :: 0.008154153823852539
+INFO:root:sent ping 2022-07-20 17:33:46.715862
+INFO:root:2022-07-20 17:33:46.722555Got pong from server
+INFO:root:latency :: 0.00699925422668457
+INFO:root:sent ping 2022-07-20 17:33:47.717461
+INFO:root:2022-07-20 17:33:47.725522Got pong from server
+INFO:root:latency :: 0.008399486541748047
+INFO:root:sent ping 2022-07-20 17:33:48.718867
+INFO:root:2022-07-20 17:33:48.724637Got pong from server
+INFO:root:latency :: 0.006053447723388672
+INFO:root:sent ping 2022-07-20 17:33:49.720284
+INFO:root:2022-07-20 17:33:49.725008Got pong from server
+INFO:root:latency :: 0.004998683929443359
+INFO:root:sent ping 2022-07-20 17:33:50.721745
+INFO:root:2022-07-20 17:33:50.725821Got pong from server
+INFO:root:latency :: 0.004361152648925781
+INFO:root:sent ping 2022-07-20 17:33:51.723153
+INFO:root:2022-07-20 17:33:51.727067Got pong from server
+INFO:root:latency :: 0.004228115081787109
+INFO:root:sent ping 2022-07-20 17:33:52.724842
+INFO:root:2022-07-20 17:33:52.730073Got pong from server
+INFO:root:latency :: 0.0056018829345703125
+INFO:root:sent ping 2022-07-20 17:33:53.726566
+INFO:root:2022-07-20 17:33:53.731910Got pong from server
+INFO:root:latency :: 0.005632638931274414
+INFO:root:sent ping 2022-07-20 17:33:54.727191
+INFO:root:2022-07-20 17:33:54.732548Got pong from server
+INFO:root:latency :: 0.005640268325805664
+INFO:root:sent ping 2022-07-20 17:33:55.729152
+INFO:root:2022-07-20 17:33:55.734646Got pong from server
+INFO:root:latency :: 0.005833148956298828
+INFO:root:sent ping 2022-07-20 17:33:56.731066
+INFO:root:2022-07-20 17:33:56.736906Got pong from server
+INFO:root:latency :: 0.00625157356262207
+INFO:root:sent ping 2022-07-20 17:33:57.732578
+INFO:root:2022-07-20 17:33:57.738228Got pong from server
+INFO:root:latency :: 0.0060482025146484375
+INFO:root:sent ping 2022-07-20 17:33:58.734096
+INFO:root:2022-07-20 17:33:58.740415Got pong from server
+INFO:root:latency :: 0.0066432952880859375
+INFO:root:sent ping 2022-07-20 17:33:59.735550
+INFO:root:2022-07-20 17:33:59.742720Got pong from server
+INFO:root:latency :: 0.007452964782714844
+INFO:root:sent ping 2022-07-20 17:34:00.737080
+INFO:root:2022-07-20 17:34:00.740726Got pong from server
+INFO:root:latency :: 0.003914356231689453
+INFO:root:{'mean_latency': 7.076117300218152, 'std_dev_latency': 3.7600964183126253, 'req_rate': 1.0082944184355227}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
+DEBUG:urllib3.connectionpool:http://20.66.123.181:5000 "POST /client_stats HTTP/1.1" 204 0
+INFO:root:2022-07-20 17:34:01.030077 controller reply to user stats : 
+INFO:root:empty resp
+INFO:root:sent ping 2022-07-20 17:34:01.738302
+INFO:root:2022-07-20 17:34:01.743538Got pong from server
+INFO:root:latency :: 0.005517244338989258
+INFO:root:sent ping 2022-07-20 17:34:02.739738
+INFO:root:2022-07-20 17:34:02.744071Got pong from server
+INFO:root:latency :: 0.004622697830200195
+INFO:root:sent ping 2022-07-20 17:34:03.741152
+INFO:root:2022-07-20 17:34:03.744909Got pong from server
+INFO:root:latency :: 0.0040283203125
+INFO:root:sent ping 2022-07-20 17:34:04.742676
+INFO:root:2022-07-20 17:34:04.749777Got pong from server
+INFO:root:latency :: 0.0074024200439453125
+INFO:root:sent ping 2022-07-20 17:34:05.744103
+INFO:root:2022-07-20 17:34:05.750822Got pong from server
+INFO:root:latency :: 0.007005214691162109
+INFO:root:sent ping 2022-07-20 17:34:06.745534
+INFO:root:2022-07-20 17:34:06.750504Got pong from server
+INFO:root:latency :: 0.0052602291107177734
+INFO:root:sent ping 2022-07-20 17:34:07.746967
+INFO:root:2022-07-20 17:34:07.752692Got pong from server
+INFO:root:latency :: 0.00601649284362793
+INFO:root:sent ping 2022-07-20 17:34:08.748511
+INFO:root:2022-07-20 17:34:08.752839Got pong from server
+INFO:root:latency :: 0.00467228889465332
+INFO:root:sent ping 2022-07-20 17:34:09.750033
+INFO:root:2022-07-20 17:34:09.755557Got pong from server
+INFO:root:latency :: 0.005797863006591797
+INFO:root:sent ping 2022-07-20 17:34:10.751531
+INFO:root:2022-07-20 17:34:10.755957Got pong from server
+INFO:root:latency :: 0.004690408706665039
+INFO:root:sent ping 2022-07-20 17:34:11.752953
+INFO:root:2022-07-20 17:34:11.759185Got pong from server
+INFO:root:latency :: 0.006511211395263672
+INFO:root:sent ping 2022-07-20 17:34:12.754404
+INFO:root:2022-07-20 17:34:12.759550Got pong from server
+INFO:root:latency :: 0.0055179595947265625
+INFO:root:sent ping 2022-07-20 17:34:13.755838
+INFO:root:2022-07-20 17:34:13.759834Got pong from server
+INFO:root:latency :: 0.004273653030395508
+INFO:root:sent ping 2022-07-20 17:34:14.757306
+INFO:root:2022-07-20 17:34:14.761614Got pong from server
+INFO:root:latency :: 0.004566192626953125
+INFO:root:sent ping 2022-07-20 17:34:15.758799
+INFO:root:2022-07-20 17:34:15.763412Got pong from server
+INFO:root:latency :: 0.004930019378662109
+INFO:root:sent ping 2022-07-20 17:34:16.760425
+INFO:root:2022-07-20 17:34:16.766547Got pong from server
+INFO:root:latency :: 0.0065691471099853516
+INFO:root:sent ping 2022-07-20 17:34:17.761878
+INFO:root:2022-07-20 17:34:17.767373Got pong from server
+INFO:root:latency :: 0.006036520004272461
+INFO:root:sent ping 2022-07-20 17:34:18.763391
+INFO:root:2022-07-20 17:34:18.770098Got pong from server
+INFO:root:latency :: 0.0070209503173828125
+INFO:root:sent ping 2022-07-20 17:34:19.764814
+INFO:root:2022-07-20 17:34:19.769715Got pong from server
+INFO:root:latency :: 0.005187034606933594
+INFO:root:sent ping 2022-07-20 17:34:20.766364
+INFO:root:2022-07-20 17:34:20.772129Got pong from server
+INFO:root:latency :: 0.0060918331146240234
+INFO:root:sent ping 2022-07-20 17:34:21.767857
+INFO:root:2022-07-20 17:34:21.774087Got pong from server
+INFO:root:latency :: 0.006490945816040039
+INFO:root:sent ping 2022-07-20 17:34:22.769378
+INFO:root:2022-07-20 17:34:22.773454Got pong from server
+INFO:root:latency :: 0.004378318786621094
+INFO:root:sent ping 2022-07-20 17:34:23.770916
+INFO:root:2022-07-20 17:34:23.778208Got pong from server
+INFO:root:latency :: 0.0076792240142822266
+INFO:root:sent ping 2022-07-20 17:34:24.772387
+INFO:root:2022-07-20 17:34:24.775994Got pong from server
+INFO:root:latency :: 0.003918886184692383
+INFO:root:sent ping 2022-07-20 17:34:25.773766
+INFO:root:2022-07-20 17:34:25.782123Got pong from server
+INFO:root:latency :: 0.008638620376586914
+INFO:root:sent ping 2022-07-20 17:34:26.775158
+INFO:root:2022-07-20 17:34:26.779624Got pong from server
+INFO:root:latency :: 0.004740238189697266
+INFO:root:sent ping 2022-07-20 17:34:27.776585
+INFO:root:2022-07-20 17:34:27.780685Got pong from server
+INFO:root:latency :: 0.0043904781341552734
+INFO:root:sent ping 2022-07-20 17:34:28.778483
+INFO:root:2022-07-20 17:34:28.783715Got pong from server
+INFO:root:latency :: 0.005644321441650391
+INFO:root:sent ping 2022-07-20 17:34:29.779977
+INFO:root:2022-07-20 17:34:29.784650Got pong from server
+INFO:root:latency :: 0.004981517791748047
+INFO:root:sent ping 2022-07-20 17:34:30.781415
+INFO:root:2022-07-20 17:34:30.785834Got pong from server
+INFO:root:latency :: 0.0047490596771240234
+INFO:root:sent ping 2022-07-20 17:34:31.782847
+INFO:root:2022-07-20 17:34:31.787514Got pong from server
+INFO:root:latency :: 0.005037546157836914
+INFO:root:{'mean_latency': 5.5602212106027915, 'std_dev_latency': 1.1443211119868204, 'req_rate': 1.0078743048111924}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
+DEBUG:urllib3.connectionpool:http://20.66.123.181:5000 "POST /client_stats HTTP/1.1" 204 0
+INFO:root:2022-07-20 17:34:32.074823 controller reply to user stats : 
+INFO:root:empty resp
+INFO:root:sent ping 2022-07-20 17:34:32.784156
+INFO:root:2022-07-20 17:34:32.789666Got pong from server
+INFO:root:latency :: 0.005941867828369141
+INFO:root:sent ping 2022-07-20 17:34:33.785103
+INFO:root:2022-07-20 17:34:33.795935Got pong from server
+INFO:root:latency :: 0.011160135269165039
+INFO:root:sent ping 2022-07-20 17:34:34.786885
+INFO:root:2022-07-20 17:34:34.793217Got pong from server
+INFO:root:latency :: 0.006781101226806641
+INFO:root:sent ping 2022-07-20 17:34:35.788596
+INFO:root:2022-07-20 17:34:35.795003Got pong from server
+INFO:root:latency :: 0.006765604019165039
+INFO:root:sent ping 2022-07-20 17:34:36.790169
+INFO:root:2022-07-20 17:34:36.794479Got pong from server
+INFO:root:latency :: 0.0046536922454833984
+INFO:root:sent ping 2022-07-20 17:34:37.791590
+INFO:root:2022-07-20 17:34:37.795693Got pong from server
+INFO:root:latency :: 0.004479169845581055
+INFO:root:sent ping 2022-07-20 17:34:38.793465
+INFO:root:2022-07-20 17:34:38.798212Got pong from server
+INFO:root:latency :: 0.00520634651184082
+INFO:root:sent ping 2022-07-20 17:34:39.795054
+INFO:root:2022-07-20 17:34:39.800105Got pong from server
+INFO:root:latency :: 0.005315542221069336
+INFO:root:sent ping 2022-07-20 17:34:40.796549
+INFO:root:2022-07-20 17:34:40.800588Got pong from server
+INFO:root:latency :: 0.004404306411743164
+INFO:root:sent ping 2022-07-20 17:34:41.798271
+INFO:root:2022-07-20 17:34:41.812981Got pong from server
+INFO:root:latency :: 0.015125274658203125
+INFO:root:sent ping 2022-07-20 17:34:42.799880
+INFO:root:2022-07-20 17:34:42.808157Got pong from server
+INFO:root:latency :: 0.008581161499023438
+INFO:root:sent ping 2022-07-20 17:34:43.801626
+INFO:root:2022-07-20 17:34:43.805739Got pong from server
+INFO:root:latency :: 0.004519224166870117
+INFO:root:sent ping 2022-07-20 17:34:44.803282
+INFO:root:2022-07-20 17:34:44.809180Got pong from server
+INFO:root:latency :: 0.006247997283935547
+INFO:root:sent ping 2022-07-20 17:34:45.804762
+INFO:root:2022-07-20 17:34:45.810010Got pong from server
+INFO:root:latency :: 0.005541801452636719
+INFO:root:sent ping 2022-07-20 17:34:46.806219
+INFO:root:2022-07-20 17:34:46.811464Got pong from server
+INFO:root:latency :: 0.0055310726165771484
+INFO:root:sent ping 2022-07-20 17:34:47.807736
+INFO:root:2022-07-20 17:34:47.813040Got pong from server
+INFO:root:latency :: 0.005564689636230469
+INFO:root:sent ping 2022-07-20 17:34:48.809112
+INFO:root:2022-07-20 17:34:48.813670Got pong from server
+INFO:root:latency :: 0.0048370361328125
+INFO:root:sent ping 2022-07-20 17:34:49.810535
+INFO:root:2022-07-20 17:34:49.815549Got pong from server
+INFO:root:latency :: 0.005288124084472656
+INFO:root:sent ping 2022-07-20 17:34:50.811959
+INFO:root:2022-07-20 17:34:50.819963Got pong from server
+INFO:root:latency :: 0.008270978927612305
+INFO:root:sent ping 2022-07-20 17:34:51.813422
+INFO:root:2022-07-20 17:34:51.818443Got pong from server
+INFO:root:latency :: 0.005363941192626953
+INFO:root:sent ping 2022-07-20 17:34:52.814941
+INFO:root:2022-07-20 17:34:52.820994Got pong from server
+INFO:root:latency :: 0.006360530853271484
+INFO:root:sent ping 2022-07-20 17:34:53.816521
+INFO:root:2022-07-20 17:34:53.823920Got pong from server
+INFO:root:latency :: 0.007687091827392578
+INFO:root:sent ping 2022-07-20 17:34:54.818039
+INFO:root:2022-07-20 17:34:54.823298Got pong from server
+INFO:root:latency :: 0.00558924674987793
+INFO:root:sent ping 2022-07-20 17:34:55.819539
+INFO:root:2022-07-20 17:34:55.826829Got pong from server
+INFO:root:latency :: 0.0076215267181396484
+INFO:root:sent ping 2022-07-20 17:34:56.820962
+INFO:root:2022-07-20 17:34:56.825072Got pong from server
+INFO:root:latency :: 0.004383087158203125
+INFO:root:sent ping 2022-07-20 17:34:57.822399
+INFO:root:2022-07-20 17:34:57.827793Got pong from server
+INFO:root:latency :: 0.005833625793457031
+INFO:root:sent ping 2022-07-20 17:34:58.823980
+INFO:root:2022-07-20 17:34:58.829138Got pong from server
+INFO:root:latency :: 0.005598545074462891
+INFO:root:sent ping 2022-07-20 17:34:59.825579
+INFO:root:2022-07-20 17:34:59.831973Got pong from server
+INFO:root:latency :: 0.006800413131713867
+INFO:root:sent ping 2022-07-20 17:35:00.827457
+INFO:root:2022-07-20 17:35:00.832709Got pong from server
+INFO:root:latency :: 0.005661487579345703
+INFO:root:sent ping 2022-07-20 17:35:01.829103
+INFO:root:2022-07-20 17:35:01.838745Got pong from server
+INFO:root:latency :: 0.009967565536499023
+INFO:root:sent ping 2022-07-20 17:35:02.830710
+INFO:root:2022-07-20 17:35:02.836136Got pong from server
+INFO:root:latency :: 0.0057981014251708984
+INFO:root:{'mean_latency': 6.480009325088993, 'std_dev_latency': 2.2273733207187236, 'req_rate': 1.0077389242123866}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
+DEBUG:urllib3.connectionpool:http://20.66.123.181:5000 "POST /client_stats HTTP/1.1" 204 0
+INFO:root:2022-07-20 17:35:03.125094 controller reply to user stats : 
+INFO:root:empty resp
+INFO:root:sent ping 2022-07-20 17:35:03.831915
+INFO:root:2022-07-20 17:35:03.835540Got pong from server
+INFO:root:latency :: 0.0039136409759521484
+INFO:root:sent ping 2022-07-20 17:35:04.833563
+INFO:root:2022-07-20 17:35:04.840229Got pong from server
+INFO:root:latency :: 0.007013797760009766
+INFO:root:sent ping 2022-07-20 17:35:05.835040
+INFO:root:2022-07-20 17:35:05.842811Got pong from server
+INFO:root:latency :: 0.008098602294921875
+INFO:root:sent ping 2022-07-20 17:35:06.836547
+INFO:root:2022-07-20 17:35:06.841105Got pong from server
+INFO:root:latency :: 0.004892826080322266
+INFO:root:sent ping 2022-07-20 17:35:07.838038
+INFO:root:2022-07-20 17:35:07.842603Got pong from server
+INFO:root:latency :: 0.004848957061767578
+INFO:root:sent ping 2022-07-20 17:35:08.840354
+INFO:root:2022-07-20 17:35:08.845766Got pong from server
+INFO:root:latency :: 0.006323337554931641
+INFO:root:sent ping 2022-07-20 17:35:09.842130
+INFO:root:2022-07-20 17:35:09.846352Got pong from server
+INFO:root:latency :: 0.0045261383056640625
+INFO:root:sent ping 2022-07-20 17:35:10.843682
+INFO:root:2022-07-20 17:35:10.849897Got pong from server
+INFO:root:latency :: 0.0067348480224609375
+INFO:root:sent ping 2022-07-20 17:35:11.845246
+INFO:root:2022-07-20 17:35:11.849065Got pong from server
+INFO:root:latency :: 0.00409245491027832
+INFO:root:sent ping 2022-07-20 17:35:12.846705
+INFO:root:2022-07-20 17:35:12.851253Got pong from server
+INFO:root:latency :: 0.004845380783081055
+INFO:root:sent ping 2022-07-20 17:35:13.848145
+INFO:root:2022-07-20 17:35:13.856791Got pong from server
+INFO:root:latency :: 0.008925437927246094
+INFO:root:sent ping 2022-07-20 17:35:14.849581
+INFO:root:2022-07-20 17:35:14.856903Got pong from server
+INFO:root:latency :: 0.00762176513671875
+INFO:root:sent ping 2022-07-20 17:35:15.851079
+INFO:root:2022-07-20 17:35:15.857422Got pong from server
+INFO:root:latency :: 0.006636381149291992
+INFO:root:sent ping 2022-07-20 17:35:16.852519
+INFO:root:2022-07-20 17:35:16.857358Got pong from server
+INFO:root:latency :: 0.005144357681274414
+INFO:root:sent ping 2022-07-20 17:35:17.853959
+INFO:root:2022-07-20 17:35:17.861139Got pong from server
+INFO:root:latency :: 0.007486820220947266
+INFO:root:sent ping 2022-07-20 17:35:18.855476
+INFO:root:2022-07-20 17:35:18.860896Got pong from server
+INFO:root:latency :: 0.005747079849243164
+INFO:root:sent ping 2022-07-20 17:35:19.856952
+INFO:root:2022-07-20 17:35:19.862401Got pong from server
+INFO:root:latency :: 0.0057430267333984375
+INFO:root:sent ping 2022-07-20 17:35:20.858438
+INFO:root:2022-07-20 17:35:20.863015Got pong from server
+INFO:root:latency :: 0.004897117614746094
+INFO:root:sent ping 2022-07-20 17:35:21.859940
+INFO:root:2022-07-20 17:35:21.865043Got pong from server
+INFO:root:latency :: 0.005421638488769531
+INFO:root:sent ping 2022-07-20 17:35:22.861433
+INFO:root:2022-07-20 17:35:22.867435Got pong from server
+INFO:root:latency :: 0.006349325180053711
+INFO:root:sent ping 2022-07-20 17:35:23.862856
+INFO:root:2022-07-20 17:35:23.867822Got pong from server
+INFO:root:latency :: 0.005266666412353516
+INFO:root:sent ping 2022-07-20 17:35:24.864289
+INFO:root:2022-07-20 17:35:24.868727Got pong from server
+INFO:root:latency :: 0.004709005355834961
+INFO:root:sent ping 2022-07-20 17:35:25.865752
+INFO:root:2022-07-20 17:35:25.869895Got pong from server
+INFO:root:latency :: 0.004446506500244141
+INFO:root:sent ping 2022-07-20 17:35:26.867191
+INFO:root:2022-07-20 17:35:26.871944Got pong from server
+INFO:root:latency :: 0.005039691925048828
+INFO:root:sent ping 2022-07-20 17:35:27.868719
+INFO:root:2022-07-20 17:35:27.872491Got pong from server
+INFO:root:latency :: 0.004033088684082031
+INFO:root:sent ping 2022-07-20 17:35:28.870207
+INFO:root:2022-07-20 17:35:28.887350Got pong from server
+INFO:root:latency :: 0.017443180084228516
+INFO:root:sent ping 2022-07-20 17:35:29.871624
+INFO:root:2022-07-20 17:35:29.876817Got pong from server
+INFO:root:latency :: 0.005498170852661133
+INFO:root:sent ping 2022-07-20 17:35:30.873068
+INFO:root:2022-07-20 17:35:30.882530Got pong from server
+INFO:root:latency :: 0.009778499603271484
+INFO:root:sent ping 2022-07-20 17:35:31.874687
+INFO:root:2022-07-20 17:35:31.880891Got pong from server
+INFO:root:latency :: 0.006501913070678711
+INFO:root:sent ping 2022-07-20 17:35:32.876090
+INFO:root:2022-07-20 17:35:32.884732Got pong from server
+INFO:root:latency :: 0.008928775787353516
+INFO:root:sent ping 2022-07-20 17:35:33.877520
+INFO:root:2022-07-20 17:35:33.895105Got pong from server
+INFO:root:latency :: 0.017878055572509766
+INFO:root:{'mean_latency': 6.735047986430507, 'std_dev_latency': 3.235467938266759, 'req_rate': 1.0074666640136325}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
+DEBUG:urllib3.connectionpool:http://20.66.123.181:5000 "POST /client_stats HTTP/1.1" 204 0
+INFO:root:2022-07-20 17:35:34.184602 controller reply to user stats : 
+INFO:root:empty resp
+INFO:root:sent ping 2022-07-20 17:35:34.878655
+INFO:root:2022-07-20 17:35:34.884365Got pong from server
+INFO:root:latency :: 0.006014108657836914
+INFO:root:sent ping 2022-07-20 17:35:35.880088
+INFO:root:2022-07-20 17:35:35.887513Got pong from server
+INFO:root:latency :: 0.007744789123535156
+INFO:root:sent ping 2022-07-20 17:35:36.881510
+INFO:root:2022-07-20 17:35:36.886073Got pong from server
+INFO:root:latency :: 0.0048558712005615234
+INFO:root:sent ping 2022-07-20 17:35:37.882929
+INFO:root:2022-07-20 17:35:37.886960Got pong from server
+INFO:root:latency :: 0.004354000091552734
+INFO:root:sent ping 2022-07-20 17:35:38.884433
+INFO:root:2022-07-20 17:35:38.890081Got pong from server
+INFO:root:latency :: 0.006031036376953125
+INFO:root:sent ping 2022-07-20 17:35:39.887097
+INFO:root:2022-07-20 17:35:39.892650Got pong from server
+INFO:root:latency :: 0.005828380584716797
+INFO:root:sent ping 2022-07-20 17:35:40.888591
+INFO:root:2022-07-20 17:35:40.894638Got pong from server
+INFO:root:latency :: 0.006384372711181641
+INFO:root:sent ping 2022-07-20 17:35:41.890098
+INFO:root:2022-07-20 17:35:41.895839Got pong from server
+INFO:root:latency :: 0.006120204925537109
+INFO:root:sent ping 2022-07-20 17:35:42.895657
+INFO:root:2022-07-20 17:35:42.901543Got pong from server
+INFO:root:latency :: 0.006203413009643555
+INFO:root:sent ping 2022-07-20 17:35:43.897098
+INFO:root:2022-07-20 17:35:43.902299Got pong from server
+INFO:root:latency :: 0.00553131103515625
+INFO:root:sent ping 2022-07-20 17:35:44.898547
+INFO:root:2022-07-20 17:35:44.903223Got pong from server
+INFO:root:latency :: 0.005011796951293945
+INFO:root:sent ping 2022-07-20 17:35:45.899981
+INFO:root:2022-07-20 17:35:45.905434Got pong from server
+INFO:root:latency :: 0.005757570266723633
+INFO:root:sent ping 2022-07-20 17:35:46.901454
+INFO:root:2022-07-20 17:35:46.907029Got pong from server
+INFO:root:latency :: 0.0059032440185546875
+INFO:root:sent ping 2022-07-20 17:35:47.902971
+INFO:root:2022-07-20 17:35:47.909708Got pong from server
+INFO:root:latency :: 0.007025718688964844
+INFO:root:sent ping 2022-07-20 17:35:48.904419
+INFO:root:2022-07-20 17:35:48.909035Got pong from server
+INFO:root:latency :: 0.004937887191772461
+INFO:root:sent ping 2022-07-20 17:35:49.905982
+INFO:root:2022-07-20 17:35:49.911745Got pong from server
+INFO:root:latency :: 0.006078243255615234
+INFO:root:sent ping 2022-07-20 17:35:50.907602
+INFO:root:2022-07-20 17:35:50.911913Got pong from server
+INFO:root:latency :: 0.0046765804290771484
+INFO:root:sent ping 2022-07-20 17:35:51.909180
+INFO:root:2022-07-20 17:35:51.915663Got pong from server
+INFO:root:latency :: 0.006773948669433594
+INFO:root:sent ping 2022-07-20 17:35:52.910675
+INFO:root:2022-07-20 17:35:52.915727Got pong from server
+INFO:root:latency :: 0.005336761474609375
+INFO:root:sent ping 2022-07-20 17:35:53.912130
+INFO:root:2022-07-20 17:35:53.918065Got pong from server
+INFO:root:latency :: 0.006258487701416016
+INFO:root:sent ping 2022-07-20 17:35:54.913575
+INFO:root:2022-07-20 17:35:54.921544Got pong from server
+INFO:root:latency :: 0.008266448974609375
+INFO:root:sent ping 2022-07-20 17:35:55.915034
+INFO:root:2022-07-20 17:35:55.919658Got pong from server
+INFO:root:latency :: 0.00490260124206543
+INFO:root:sent ping 2022-07-20 17:35:56.916483
+INFO:root:2022-07-20 17:35:56.922652Got pong from server
+INFO:root:latency :: 0.006482601165771484
+INFO:root:sent ping 2022-07-20 17:35:57.917973
+INFO:root:2022-07-20 17:35:57.924184Got pong from server
+INFO:root:latency :: 0.00661015510559082
+INFO:root:sent ping 2022-07-20 17:35:58.919476
+INFO:root:2022-07-20 17:35:58.924089Got pong from server
+INFO:root:latency :: 0.004926204681396484
+INFO:root:sent ping 2022-07-20 17:35:59.920900
+INFO:root:2022-07-20 17:35:59.925001Got pong from server
+INFO:root:latency :: 0.004391193389892578
+INFO:root:sent ping 2022-07-20 17:36:00.922374
+INFO:root:2022-07-20 17:36:00.927601Got pong from server
+INFO:root:latency :: 0.005523681640625
+INFO:root:sent ping 2022-07-20 17:36:01.923914
+INFO:root:2022-07-20 17:36:01.929610Got pong from server
+INFO:root:latency :: 0.006010532379150391
+INFO:root:sent ping 2022-07-20 17:36:02.925546
+INFO:root:2022-07-20 17:36:02.930209Got pong from server
+INFO:root:latency :: 0.0050945281982421875
+INFO:root:sent ping 2022-07-20 17:36:03.927660
+INFO:root:2022-07-20 17:36:03.932079Got pong from server
+INFO:root:latency :: 0.005244255065917969
+INFO:root:sent ping 2022-07-20 17:36:04.929171
+INFO:root:2022-07-20 17:36:04.936494Got pong from server
+INFO:root:latency :: 0.007632017135620117
+INFO:root:{'mean_latency': 5.868127269129599, 'std_dev_latency': 0.9509684283600413, 'req_rate': 1.0080855214843287}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 20.66.123.181:5000
+DEBUG:urllib3.connectionpool:http://20.66.123.181:5000 "POST /client_stats HTTP/1.1" 204 0
+INFO:root:2022-07-20 17:36:05.225161 controller reply to user stats : 
+INFO:root:empty resp
+INFO:root:sent ping 2022-07-20 17:36:05.930390
+INFO:root:2022-07-20 17:36:05.936623Got pong from server
+INFO:root:latency :: 0.006629228591918945
+INFO:root:sent ping 2022-07-20 17:36:06.931887
+INFO:root:2022-07-20 17:36:06.937397Got pong from server
+INFO:root:latency :: 0.006168365478515625
+INFO:root:sent ping 2022-07-20 17:36:07.933528
+INFO:root:2022-07-20 17:36:07.937939Got pong from server
+INFO:root:latency :: 0.004682064056396484
+INFO:root:sent ping 2022-07-20 17:36:08.934959
+INFO:root:2022-07-20 17:36:08.941514Got pong from server
+INFO:root:latency :: 0.0068359375
+INFO:root:sent ping 2022-07-20 17:36:09.936540
+INFO:root:2022-07-20 17:36:09.940691Got pong from server
+INFO:root:latency :: 0.004516124725341797
+INFO:root:sent ping 2022-07-20 17:36:10.938102
+INFO:root:2022-07-20 17:36:10.943952Got pong from server
+INFO:root:latency :: 0.0062255859375
+INFO:root:sent ping 2022-07-20 17:36:11.939594
+INFO:root:2022-07-20 17:36:11.946216Got pong from server
+INFO:root:latency :: 0.006986141204833984
+INFO:root:sent ping 2022-07-20 17:36:12.941146
+INFO:root:2022-07-20 17:36:12.947528Got pong from server
+INFO:root:latency :: 0.006694316864013672
+INFO:root:sent ping 2022-07-20 17:36:13.942675
+INFO:root:2022-07-20 17:36:13.946355Got pong from server
+INFO:root:latency :: 0.003983497619628906
+INFO:root:sent ping 2022-07-20 17:36:14.944233
+INFO:root:2022-07-20 17:36:14.949725Got pong from server
+INFO:root:latency :: 0.005795955657958984
+INFO:root:sent ping 2022-07-20 17:36:15.945851
+INFO:root:2022-07-20 17:36:15.952581Got pong from server
+INFO:root:latency :: 0.007021665573120117
+INFO:root:sent ping 2022-07-20 17:36:16.947300
+INFO:root:2022-07-20 17:36:16.953458Got pong from server
+INFO:root:latency :: 0.006444215774536133
+INFO:root:sent ping 2022-07-20 17:36:17.948820
+INFO:root:2022-07-20 17:36:17.957594Got pong from server
+INFO:root:latency :: 0.009072065353393555
+INFO:root:sent ping 2022-07-20 17:36:18.950246
+INFO:root:2022-07-20 17:36:18.955354Got pong from server
+INFO:root:latency :: 0.005541324615478516
+INFO:root:sent ping 2022-07-20 17:36:19.951885
+INFO:root:2022-07-20 17:36:19.957299Got pong from server
+INFO:root:latency :: 0.0058901309967041016
+INFO:root:sent ping 2022-07-20 17:36:20.953507
+INFO:root:2022-07-20 17:36:20.957604Got pong from server
+INFO:root:latency :: 0.004362821578979492
+INFO:root:sent ping 2022-07-20 17:36:21.954946
+INFO:root:2022-07-20 17:36:21.960484Got pong from server
+INFO:root:latency :: 0.00581669807434082
+INFO:root:sent ping 2022-07-20 17:36:22.956727
+INFO:root:2022-07-20 17:36:22.962990Got pong from server
+INFO:root:latency :: 0.006891727447509766
+INFO:root:sent ping 2022-07-20 17:36:23.958192
+INFO:root:2022-07-20 17:36:23.966826Got pong from server
+INFO:root:latency :: 0.0089569091796875
+INFO:root:sent ping 2022-07-20 17:36:24.960256
+INFO:root:2022-07-20 17:36:24.968573Got pong from server
+INFO:root:latency :: 0.00911259651184082
+INFO:root:sent ping 2022-07-20 17:36:25.962528
+INFO:root:2022-07-20 17:36:25.969753Got pong from server
+INFO:root:latency :: 0.007509469985961914
+INFO:root:sent ping 2022-07-20 17:36:26.964648
+INFO:root:2022-07-20 17:36:26.970614Got pong from server
+INFO:root:latency :: 0.006280422210693359
