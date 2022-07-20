@@ -18,11 +18,11 @@
             "ip":"10.0.0.4"
         },
         "h5" : {
-            "displayName": "Australia East",
-            "id": "/subscriptions/cf58b528-85d3-4ed0-ad80-f1f1970213c8/locations/australiaeast",
-            "latitude": "-33.86",
-            "longitude": "151.2094",
-            "name": "australiaeast",
+            "displayName": "Brazil South",
+            "id": "/subscriptions/cf58b528-85d3-4ed0-ad80-f1f1970213c8/locations/brazilsouth",
+            "latitude": "-23.55",
+            "longitude": "-46.633",
+            "name": "brazilsouth",
             "subscriptionId": null,
             "ip":"10.0.0.5"
         },
@@ -46,9 +46,9 @@
             "ip":"10.0.0.8"
         },
         "h9" : {
-            "latitude": "-33.86",
-            "longitude": "151.2094",
-            "region": "australiaeast",
+            "latitude": "-23.55",
+            "longitude": "-46.633",
+            "region": "brazilsouth",
             "ip":"10.0.0.9"
         }
     },
