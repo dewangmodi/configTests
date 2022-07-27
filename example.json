@@ -35,7 +35,7 @@
             "subscriptionId": null,
             "ip":"10.0.0.6"
         },
-        "h11": {
+        "h12": {
             "displayName": "UK South",
             "id": "",
             "latitude": "50.941",
@@ -43,7 +43,16 @@
             "name": "uksouth",
             "subscriptionId": null,
             "ip":"10.0.0.11"
-        } 
+        }, 
+        "h13" : {
+            "displayName": "Japan East",
+            "id": "",
+            "latitude": "35.68",
+            "longitude": "139.77",
+            "name": "japaneast",
+            "subscriptionId": null,
+            "ip":"10.0.0.13"
+        }
 
 
     },
