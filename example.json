@@ -35,7 +35,7 @@
             "subscriptionId": null,
             "ip":"10.0.0.6"
         },
-        "h12": {
+        "h11": {
             "displayName": "UK South",
             "id": "",
             "latitude": "50.941",
@@ -43,16 +43,7 @@
             "name": "uksouth",
             "subscriptionId": null,
             "ip":"10.0.0.11"
-        }, 
-        "h13" : {
-            "displayName": "Japan East",
-            "id": "",
-            "latitude": "35.68",
-            "longitude": "139.77",
-            "name": "japaneast",
-            "subscriptionId": null,
-            "ip":"10.0.0.13"
-        }
+        } 
 
 
     },
@@ -74,12 +65,6 @@
             "longitude": "-0.799",
             "region": "uksouth",
             "ip":"10.0.0.10"
-        },
-        "h11" : {
-            "latitude": "35.68",
-            "longitude": "139.77",
-            "region": "japaneast",
-            "ip":"10.0.0.11"
         }
 
     },
